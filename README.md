@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://pathmind.app/Metadata/lsconf-icon.svg" alt="LSconf Icon" width="32" height="32"/> LSconf
+# <img src="https://pathmind.app/Metadata/lsconf-icon.svg" alt="LSconf Icon" width="64" height="64"/></br> LSconf
 
 ### List-Shorthand Configuration Library
 
